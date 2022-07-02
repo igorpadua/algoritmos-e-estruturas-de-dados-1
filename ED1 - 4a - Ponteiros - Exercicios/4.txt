@@ -1,0 +1,11 @@
+O resultado: 0, 1, 1, 2.
+
+Logo no começo ele criou uma matriz inteira de ordem 2 e alocou um espaço na
+memória com a função malloc.
+
+No programa ele atribui os valores somando o i + j e dando o resultado falado
+em cima.
+
+Com dois for passando pela matriz inteira ele imprimi os resultados da matriz.
+
+É por último ele libera o espaço de memória com a função free().
